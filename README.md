@@ -1,13 +1,16 @@
 # Memories-Gallery App
 
-![image](https://user-images.githubusercontent.com/34540460/125733230-28f52632-11d3-4cc3-acfd-7d1b4b964459.png)
 Home Page.
-![Memories](https://user-images.githubusercontent.com/34540460/125732419-485dedb5-7928-4cf8-bc66-569ed2f0bc8e.png)
+![image](https://user-images.githubusercontent.com/34540460/125733230-28f52632-11d3-4cc3-acfd-7d1b4b964459.png)
+
 Authentication page.
 ![image](https://user-images.githubusercontent.com/34540460/125733187-dc2b35c8-19f4-4213-a15e-93e16ff39ac5.png)
+
 User dashboard page.
+![image](https://user-images.githubusercontent.com/34540460/125732419-485dedb5-7928-4cf8-bc66-569ed2f0bc8e.png)
 
-
+User on Clicking images in gallery:
+![Uploading image.png…]()
 
 
 # Tech Stack:(MERN)
