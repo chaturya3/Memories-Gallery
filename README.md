@@ -10,7 +10,7 @@ User dashboard page.
 ![image](https://user-images.githubusercontent.com/34540460/125732419-485dedb5-7928-4cf8-bc66-569ed2f0bc8e.png)
 
 User on Clicking images in gallery:
-![Uploading image.png…]()
+![image](https://user-images.githubusercontent.com/34540460/125733625-715ff782-81c1-415b-bce6-0dff2cf79c52.png)
 
 
 # Tech Stack:(MERN)
@@ -33,5 +33,5 @@ A simple app where users would be able to add multiple images with title,short m
 - Added a like button for gallery image posts. 
 - An user on clicking the image,it can be viewed in a new page with larger size with message.
 
-Setup:
+# Setup:
 - run ```npm i && npm start``` for both client and server side to start the app
