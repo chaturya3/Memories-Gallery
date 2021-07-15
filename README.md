@@ -21,7 +21,7 @@ User on Clicking images in gallery:
 # Overview:
 A simple app where users would be able to add multiple images with title,short message,captions & tags to the gallery. 
 # Features:
-- Authentication with JWT for users.(Including google Signin).
+- Authentication with JWT for users.
 - After login, the user will be able to navigate to a dashboard page - In the dashboard the user should be able to 
   Create/Read/Update/Delete the gallery image.
 - Saved the above information on a MongoDB database.
