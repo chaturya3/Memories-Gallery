@@ -27,6 +27,8 @@ A simple app where users would be able to add multiple images with title,short m
 - Saved the above information on a MongoDB database.
 - For each gallery image the Title, Caption,short message information as well - Displayed it on the home page. 
 - It is responsive for web and mobile devices.
+- This app was hosted in heroku and netlfiy for client & server.
+- Hosted url is here https://mernmemoriesjmasterytest.netlify.app/posts.
 # Additional Features:
 - Added pagination to view gallery images in next pages.
 - Added a search button to search the images with title and tags.
