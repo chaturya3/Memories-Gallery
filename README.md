@@ -1,8 +1,8 @@
 # Memories-Gallery App
 
-![Memories](https://i.ibb.co/Z8Y0CJv/![image](https://user-images.githubusercontent.com/34540460/125732419-485dedb5-7928-4cf8-bc66-569ed2f0bc8e.png)
+![Memories](https://user-images.githubusercontent.com/34540460/125732419-485dedb5-7928-4cf8-bc66-569ed2f0bc8e.png)
 )
-Tech Stack:(MERN)
+# Tech Stack:(MERN)
 - ReactJS 
 - ExpressJS 
 - MongoDB 
